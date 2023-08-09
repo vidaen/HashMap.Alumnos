@@ -33,6 +33,8 @@ public class HashMapAlumnos {
         }while(confirmacion);
              for(Alumnos alu: alumno){
                 System.out.println(alu);}
+             
+             //System.out.println("holis chicos clase 3 ");
     }
         
         
